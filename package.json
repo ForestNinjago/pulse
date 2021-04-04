@@ -1,0 +1,23 @@
+{
+  "name": "pulse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ForestNinjago/pulse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ForestNinjago/pulse/issues"
+  },
+  "homepage": "https://github.com/ForestNinjago/pulse#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0"
+  }
+}
