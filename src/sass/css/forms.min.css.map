@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,AAAC,CACP,UAAU,CAAE,IAAI,CAChB,OAAO,CAAE,IAAI,CAChB",
+    "sources": [
+        "../blocks/forms.scss"
+    ],
+    "names": [],
+    "file": "forms.min.css"
+}
